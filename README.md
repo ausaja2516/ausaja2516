@@ -2,7 +2,7 @@
 
 ### Thanks for checking out my profile 
 
-i'm a student of Software Engineer aiming to be a full stack developer. A bit late in building projects and making and showing to social profiles but i guess ill be ok 
+i'm a student of Software Engineer aiming to be a full stack developer. A bit late in building projects and showing to social profiles but i guess ill be ok 
 
 
 - 🔭 I’m currently working to make my frontend skills better
@@ -14,8 +14,5 @@ i'm a student of Software Engineer aiming to be a full stack developer. A bit la
 - ⚡ Fun fact: i have social anxiety😂
 
 ### Skills
-- Html 
-- Css 
-- Js
-- MySql
-- Git 
+- Html - Css - JavaScript - MySql - Git 
+> more to come 🤩.
