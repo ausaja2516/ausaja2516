@@ -14,5 +14,9 @@ i'm a student of Software Engineer aiming to be a full stack developer. A bit la
 - ⚡ Fun fact: i have social anxiety😂
 
 ### Skills
-- Html - Css - JavaScript - MySql - Git 
+- Html 
+- Css 
+- JavaScript 
+- MySql
+- Git 
 > more to come 🤩.
