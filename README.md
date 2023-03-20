@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Ali Ausaja 👋
 
-<!--
-**ausaja2516/ausaja2516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Thanks for checking out my profile 
 
-Here are some ideas to get you started:
+i'm a student of Software Engineer aiming to be a full stack developer
+A bit late in building projects and making and showing to social profiles but i guess ill be ok 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working to make my frontend skills better
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on building full stack apps
+- 😊 trying to focus on self-management
+
+- 📫 How to reach me: https://www.linkedin.com/in/ali-ausaja-zaidi/ 
+- ⚡ Fun fact: i have social anxiety😂
+
+### Skills
+- Html 
+- Css 
+- Js
+- MySql
+- Git 
