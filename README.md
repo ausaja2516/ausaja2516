@@ -1,22 +1,28 @@
-### Hi there, I'm Ali Ausaja 👋
-
-### Thanks for checking out my profile 
-
-i'm a student of Software Engineer aiming to be a full stack developer. A bit late in building projects and showing to social profiles but i guess ill be ok 
 
 
-- 🔭 I’m currently working to make my frontend skills better
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on building full stack apps
-- 😊 trying to focus on self-management
+# Hi, I'm Ali Ausaja! 👋
 
-- 📫 How to reach me: https://www.linkedin.com/in/ali-ausaja-zaidi/ 
-- ⚡ Fun fact: i have social anxiety😂
 
-### Skills
-- Html 
-- Css 
-- JavaScript 
-- MySql
-- Git 
-> more to come 🤩.
+## 🚀 About Me
+i'm a student of Software Engineering aiming to be a full stack developer.
+
+
+###
+👩‍💻 I'm currently working on my frontend skills
+
+🧠 I'm currently learning MERN stack
+
+👯‍♀️ I'm looking to collaborate on building full stack apps
+
+⚡️ Fun fact : If you can't pronounce my name just call me Ausi😂
+
+
+
+
+## 🔗 Contact Me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ausaja-zaidi/)
+
+
+## 🛠 Skills
+HTML, CSS, Javascript, MySQL, Git
