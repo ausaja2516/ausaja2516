@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Ali Ausaja Zaidi aka AUSI</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Kanban Tasks && BugSquasher**
+- 🔭 I’m currently working on **Product feedback system || BugSquasher**
 
-- 🌱 My current Stack **DotNet && SQLServer && React/Vue**
+- 🌱 My current Stack **DotNet || SQLServer || React/Angular**
 
 - 💬 Ask me about **SWE || DSA || Ai**
 
