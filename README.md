@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ausaja aka Ausi</h1>
-<h3 align="center">Software Engieer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **Product feedback system || BugSquasher**
 
