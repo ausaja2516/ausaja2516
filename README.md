@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Syed Ali Ausaja Zaidi aka AUSI</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Ali Ausaja aka Ausi</h1>
+<h3 align="center">Software Engieer</h3>
 
 - 🔭 I’m currently working on **Product feedback system || BugSquasher**
 
-- 🌱 My current Stack **DotNet || SQLServer || React/Angular**
+- 🌱 My current Stack **DotNet || SQLServer || Angular**
 
-- 💬 Ask me about **SWE || DSA || Ai**
+- 💬 Ask me about **SWE || Ai**
 
 - 📫 How to reach me **ausi2516@gmail.com**
 
